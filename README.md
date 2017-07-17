@@ -7,7 +7,7 @@ cd trans
 mkdir /opt/trans
 cp ./trans.sh /opt/trans/
 chmod +x /opt/trans/trans.sh
-ln -s /usr/local/bin/trans /opt/trans/trans.sh
+ln -s /opt/trans/trans.sh /usr/local/bin/trans
 ```
 
 Usage : 
